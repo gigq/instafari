@@ -4,7 +4,12 @@ Instafari
 
 This is a quick [Instapaper](http://www.instapaper.com/) extension I threw together for [Safari 5](http://www.apple.com/safari/), mainly to experiment with Safari's extension system, but also because I thought one should exist. It's completely unofficial, but should work until [Marco's is released](http://twitter.com/instapaper/status/15731872160).
 
-New! Improved! Version 0.2!
+Version 0.3 (from Justin Sanders)
+-----------
+ * Replaced toolbar icons with retina @2x icons
+ * Included Instafari.safariextz in repository
+
+Version 0.2
 -----------
  * Experimental keyboard shortcut support (currently Command-Option-R and Control-Option-R)
  * Alert box if an error occurs posting to Instapaper
@@ -15,9 +20,7 @@ Many thanks to [Jeroen Leenarts](http://github.com/jeroenleenarts) for contribut
 
 Installation
 ------------
-Installation takes a few extra steps, since Apple hasn't officially enabled extensions yet.
-
-First, if you haven't already, [you need to enable extensions](http://safariextensions.tumblr.com/post/680219521/post-how-to-enable-extensions-06-09-10). Once enabled, go to [the downloads section here on GitHub](http://github.com/rufo/instafari/downloads) and grab the latest version of the extension (currently 0.2). Double-click the resulting file, and Safari should offer to install it.
+Go to [the downloads section here on GitHub](http://github.com/gigq/instafari/downloads) and grab the extension. Double-click the resulting file, and Safari should offer to install it.
 
 Once installed, you'll need to head into Safari's preferences and enter your account info.
 

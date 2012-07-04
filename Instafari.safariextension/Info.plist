@@ -4,10 +4,12 @@
 <dict>
 	<key>Author</key>
 	<string>Rufo Sanchez</string>
+	<key>Builder Version</key>
+	<string>8536.22</string>
 	<key>CFBundleDisplayName</key>
 	<string>Instafari</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.spark74.instafari</string>
+	<string>com.gigq.instafari</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -73,8 +75,8 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://github.com/rufo/instafari/raw/master/instafari_update.plist</string>
+	<string>http://github.com/gigq/instafari/raw/master/instafari_update.plist</string>
 	<key>Website</key>
-	<string>http://github.com/rufo/instafari</string>
+	<string>http://github.com/gigq/instafari</string>
 </dict>
 </plist>
